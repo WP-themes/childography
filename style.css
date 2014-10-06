@@ -1,0 +1,18 @@
+/*
+Theme Name: Child o Graphy
+Theme URI: http://github.io/MichaelMusgrove/themes/childography
+Author: Michael Musgrove
+Author URI: http://michaelmusgrove.com/
+Version: 1.1.0
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: white, light, white, one-column, two-columns, right-sidebar, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
+Template: graphy
+
+Resetting and rebuilding styles have been helped along thanks to the fine work of
+Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
+along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+and Blueprint http://www.blueprintcss.org/
+*/
+
+@import url("../graphy/style.css");
